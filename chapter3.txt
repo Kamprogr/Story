@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Okay I am chapter nr 3 and I am better than the others. ufo 3
+=======
+Okay I am chapter nr 3 and I am better that the others. ufo 3
+>>>>>>> 90111e4c6fa70cfbe92ef3753cd54b459ed00abf
